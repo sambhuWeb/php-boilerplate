@@ -1,11 +1,11 @@
 # Creative Works
 
-## SetUp
+## Setting up project:
 
     $ composer install
     $ composer dump-autoload -o
     
-## RunTest
+## Running Test:
 
     $ vendor/bin/phpunit
     
